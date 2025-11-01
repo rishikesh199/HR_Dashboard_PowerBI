@@ -2,6 +2,10 @@
 
 An interactive Power BI dashboard designed to analyze HR data, employee attrition, and job satisfaction. It includes advanced features like **Dark Mode & Light Mode toggle**, time-based theme logic, and dynamic slicers for deep analysis.
 
+👉 **Click below to view the HR Dashboard:**
+
+[![View HR Report](https://img.shields.io/badge/Power%20BI-View%20HR%20Dashboard-blue)](https://app.powerbi.com/view?r=eyJrIjoiYTdkZWJjOTAtN2NjOS00ZGIwLTllZTUtY2E2OWFmMzUxMWZmIiwidCI6ImM2MDAxOTk3LWQ4MzEtNDY3Zi05NDZhLThhZWU1ZDc0NmQ1NCJ9)
+
 ---
 
 ## 📝 Short Description / Purpose
